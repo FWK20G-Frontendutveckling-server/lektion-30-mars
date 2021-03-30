@@ -15,7 +15,7 @@ Windows & Mac: https://tutorial.djangogirls.org/en/intro_to_command_line/
 
 Introduktion till Node.js: https://medium.com/jspoint/introduction-to-node-js-a-beginners-guide-to-node-js-and-npm-eca9c408f9fe
 
-**Allmän Javascript (dessa artiklar är allmän om javascript och inte specifikt kring Node.js)**
+**Allmänt om Javascript (dessa artiklar är allmänt om javascript och inte specifikt kring Node.js)**
 
 Arrow functions: https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
 
