@@ -5,6 +5,7 @@ const list = require('./list');
 list.addToList(1);
 list.addToList(2);
 
+
 //Anropar funktion i list.js
 const showList = list.getList();
 
